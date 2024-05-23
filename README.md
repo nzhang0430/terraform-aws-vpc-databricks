@@ -20,7 +20,7 @@ The module provisions the following resources:
 
 • 	First, you need to set up the required provider and resources for Databricks. Add the following configuration to your Terraform script.
 
-# Deploying the Configuration
+## Deploying the Configuration
 * terraform init
 * terraform validate
 * terraform apply -f main.tf
