@@ -1,4 +1,4 @@
-# Create AWS VPC; Webserver in Public subnet, database & Databricks in provite subnet, build ALB for webaccess autoscaling and internet G/W
+# Create AWS VPC; Web server in Public subnet, database & Databricks in private subnet, build ALB for webaccess autoscaling and internet G/W
 
 ## Introduction
 
